@@ -1,8 +1,8 @@
 # SOL BAY HEAT
 
-[![make.fun](https://img.shields.io/badge/make.fun-bounty-gta6--01-ff5da2)](https://make.fun/bounty/gta6-01)
-[![make.fun](https://img.shields.io/badge/competition-gta6--01-4dd8ff)](https://make.fun/bounty/gta6-01)
-[![make.fun](https://img.shields.io/badge/repo-sawi57003--ops%2Fgta6--01--v6-ffd34d)](https://github.com/sawi57003-ops/gta6-01-v6)
+[![make.fun · gta6-01](https://make.fun/badge/gta6-01.svg)](https://make.fun/bounty/gta6-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-01)
+[![rank](https://make.fun/badge/gta6-01/sawi57003-ops/gta6-01-v6/rank.svg)](https://make.fun/bounty/gta6-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=gta6-01)
+[![reward](https://make.fun/badge/gta6-01/sawi57003-ops/gta6-01-v6/reward.svg)](https://make.fun/bounty/gta6-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-01)
 
 A top-down open-world crime game for the [make.fun gta6-01 bounty](https://make.fun/bounty/gta6-01).
 
